@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm a Back-End developer
 
 <a href="https://t.me/theperfectcoder">
-  <img align="left" alt="Telegram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Ftelegram-icon-on-transparent-background-png-3%2F&psig=AOvVaw3097PCyBdLFvrotJ_9xRf-&ust=1709404319712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDxn7zZ04QDFQAAAAAdAAAAABAE![image](https://github.com/theperfectcoder/theperfectcoder/assets/56556128/b55ec9ba-c809-4637-bbe8-069db61873c5)
-">
+  <img align="left" alt="Telegram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Ftelegram-icon-on-transparent-background-png-3%2F&psig=AOvVaw3097PCyBdLFvrotJ_9xRf-&ust=1709404319712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDxn7zZ04QDFQAAAAAdAAAAABAE!">
 </a>
 <a href="https://discord.gg/theperfectcoder#7779">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
