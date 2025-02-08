@@ -24,8 +24,8 @@
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![Laravel](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![Symfony]([https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy](https://img.shields.io/packagist/v/symfony/symfony)
+![Laravel](https://img.shields.io/badge/-Laravel-FC3421?style=flat-square&logo=Laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-3421FC?style=flat-square&logo=Symfony)
 
 **Databases**
 
