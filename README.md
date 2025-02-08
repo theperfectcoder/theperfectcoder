@@ -30,6 +30,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
+![Redis](https://img.shields.io/badge/-Redis-yellow?style=flat-square&logo=Redis)
 
 **Front-end**
 
