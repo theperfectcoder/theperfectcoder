@@ -47,14 +47,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-**Learning**
-
-![FastApi](https://img.shields.io/badge/-FastApi-grey?style=flat-square&logo=FastApi)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
