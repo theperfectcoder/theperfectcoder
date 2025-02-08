@@ -20,7 +20,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-A221FC?style=flat-square&logo=Laravel)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
