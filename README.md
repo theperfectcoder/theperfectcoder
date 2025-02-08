@@ -1,13 +1,10 @@
 ## Hi there 👋 I'm a Back-End developer
 
 <a href="https://t.me/theperfectcoder">
-  <img align="left" alt="Telegram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Ftelegram-icon-on-transparent-background-png-3%2F&psig=AOvVaw3097PCyBdLFvrotJ_9xRf-&ust=1709404319712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDxn7zZ04QDFQAAAAAdAAAAABAE!">
-</a>
-<a href="https://discord.gg/theperfectcoder#7779">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Telegram" width="22px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Ftelegram-icon-on-transparent-background-png-3%2F&psig=AOvVaw3097PCyBdLFvrotJ_9xRf-&ust=1709404319712000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDxn7zZ04QDFQAAAAAdAAAAABAE!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F16716472-telegram-png-icon&psig=AOvVaw3E_5kYlLinKgUtFloxlKt9&ust=1739121627549000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCPtYjLtIsDFQAAAAAdAAAAABAJ)">
 </a>
 <a href="https://www.linkedin.com/in/theperfectcoder/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3dMKSOnFbolHyhSdumFIYx&ust=1739121673876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiJ4J7LtIsDFQAAAAAdAAAAABAE)" />
 </a>
 
 </br>
